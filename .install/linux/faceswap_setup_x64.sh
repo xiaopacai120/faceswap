@@ -449,3 +449,5 @@ info "Faceswap installation is complete!"
 if $DESKTOP ; then info "You can launch Faceswap from the icon on your desktop" ; exit ; fi
 if $CONDA_TO_PATH ; then
     info "You should close the terminal and re-open to activate Conda before proceeding" ; fi
+
+
